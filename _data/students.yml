@@ -8,18 +8,54 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Vikash Singhal
+  photo: vikash.jpg
+  info: M.Tech. , started Aug 2022
+  email: 2022pcp5424@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech Jaypee Institute of Information Technology, Noida 
+  
+- name: Niladri Chakraborti
+  photo: niladri.jpg
+  info: M.Tech. , started Aug 2022
+  email: 2022pis5084@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech 
 
-- name: Tessa Van der Ent
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Purushottam Verma
+  photo: purushottam.jpg
+  info: M.Tech. , started Aug 2022
+  email: 2022pcp5445@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech  
+
+- name: Yashi Rastogi
+  photo: yashi.jpg
+  info: M.Tech. , started Aug 2021
+  email: 2021pis5119@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech 
+
+- name: Diksha Chandra
+  photo: diksha.jpg
+  info: M.Tech. , started Aug 2021
+  email: 2021pcp5093@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech  
+
+- name: Rajan Masubhai Sangada
+  photo: rajan.jpg
+  info: M.Tech. , started Aug 2021
+  email: 2021pcp5116@mnit.ac.in
+  number_educ: 2
+  education1: M.Tech with with <a href="https://mnit.ac.in/dept_cse/profile?fid=RqmJ">Deepak R. Nayak</a>, MNIT Jaipur
+  education2: B.Tech 
+
+
 
 

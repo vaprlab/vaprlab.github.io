@@ -61,6 +61,7 @@ We are located at Malviya national institute of technology, Jaipur, a vibrant ci
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mnit.jpeg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mnit.jpeg" style="width: 150px">
+  <img src="" style="width:150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_vapr.png" style="width: 150px">
 </figure>

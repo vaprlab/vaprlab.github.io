@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "VAPR Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "VAPR Lab at MNIT Jaipur."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Malviya National Institute of Technology, Jaipur](http://www.mnit.ac.in/). This lab function under the guidance of [Dr. Deepak Ranjan Nayak](https://mnit.ac.in/dept_cse/profile?fid=RqmJ) of Department of Computer Science and Egineering at MNIT Jaipur, India. Our aim is to explore and understand computer vision and medical image analysis related problems. We are also working on several machine learning techniques and deep learning and randomized learning algorithms.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,16 +53,12 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 </div>
 
 
+To this end, we strive to develop innovative techniques that go beyond traditional visual perception. Our vision is to construct advanced imaging systems that can perceive and interpret medical images with remarkable accuracy, empowering medical professionals to make more precise diagnoses and facilitate personalized treatments. we also aim to uncover hidden patterns and uncover valuable insights that can revolutionize fields such as remote sensing, environmental monitoring, and material characterization.(see [Research](research)).
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at Malviya national institute of technology, Jaipur, a vibrant city known for it's cultural heritage, has a rich 50 years of history of  excellence in education and research and we continue to build upon that foundation. We are currently ranked [37th](https://www.nirfindia.org/2023/EngineeringRanking.html) among all engineering colleges in india and are driven by a spirit of curiosity and a desire to address the challanges thrown at us.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">

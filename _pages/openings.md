@@ -26,9 +26,12 @@ If you are interested in working with us as a PhD student, please send me an [em
 ### Bachelors / Master students from elsewhere
 If you are interested in joining our research group, you can also drop us a mail with CV.
 
-# Minimum Requirements
-Excellent knowledge of programming languages(python, Matlab etc.)
-Basic knowledge of Computer Vision or Machine Learning will be good to have.
+#### Minimum Requirements
+<ul>
+  <li>Excellent knowledge of programming languages(python, Matlab etc.).</li>
+  <li>Basic knowledge of Computer Vision or Machine Learning will be good to have.</li>
+</ul>
+
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">

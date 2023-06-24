@@ -328,3 +328,223 @@
   highlight: 0
 
 
+- title: Discrete ripplet-II transform and modified PSO based improved evolutionary extreme learning machine for pathological brain detection
+  image: paper32_image.png
+  description:
+    We determine the Fermi surface of Sr327.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
+    display: Phys. Rev. Lett. 101, 026407 (2008)
+  highlight: 0
+
+- title: Combining extreme learning machine with modified sine cosine algorithm for pathological brain detection
+  image: paper33_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi, S. Wang
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: An improved pathological brain detection system based on two-dimensional PCA and evolutionary extreme learning machine
+  image: paper34_image.png
+  description: ""
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
+    display: CHIMIA 11, 759 (2006)
+  highlight: 0
+
+- title: Development of pathological brain detection system using Jaya optimized improved extreme learning machine and orthogonal ripplet-II transform
+  image: paper35_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Pathological brain detection using curvelet features and least squares SVM
+  image: paper36_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: "SCA-RELM: A New Regularized Extreme Learning Machine Based on Sine Cosine Algorithm for Automated Detection of Pathological Brain"
+  image: paper37_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, Z. Lu, S. Lu, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: "Automated pathological brain detection system: A fast discrete curvelet transform and probabilistic neural network based approach"
+  image: paper38_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi, V. Prasad
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Stationary wavelet transform and AdaBoost with SVM based pathological brain detection in MRI scanning
+  image: paper39_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Detection of unilateral hearing loss by stationary wavelet entropy
+  image: paper40_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    Y. Zhang, D. R. Nayak, M. Yang, Y. Shao, B. Liu, S. Wang
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: "ANTIDOTE: A Wechat Public Platform Provide Urgent Treatment for Patients with Tetrodotoxin Intoxication"
+  image: paper41_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    S H Wang, XX Zhou, JQ Yang, DR Nayak, C. Reyes, ZC Dong, R. Watson, C. Cattani, J. Young, W. Gray, LX Han, Y. Yao, LT Fang, P. Phillips, SD Du, YD Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1  
+
+- title: Pathological Brain Detection using Extreme Learning Machine Trained with Improved Whale Optimization Algorithm
+  image: paper42_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: An Improved Extreme Learning Machine for Pathological Brain Detection
+  image: paper43_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: "Hyperspectral image classification: A k-means clustering based approach"
+  image: paper44_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    S. Ranjan, D. R. Nayak, K. S. Kumar, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Brain MR image classification using two-dimensional discrete wavelet transform and AdaBoost with random forests
+  image: paper45_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Non-linear cellular automata based edge detector for optical character images
+  image: paper46_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Salt and Pepper Noise Reduction Schemes Using Cellular Automata
+  image: paper47_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Classification of Brain MR Images Using Discrete Wavelet Transform and Random Forests
+  image: paper48_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: Least Squares SVM Approach for Abnormal Brain Detection in MRI Using Multiresolution Analysis
+  image: paper49_image.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: A multi-stage hybrid model for Odia compound character recognition
+  image: book1.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. Das, D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+- title: "Automated Detection of Brain Abnormalities Using Multi-Directional Features and Randomized Learning: A Comparative Study"
+  image: book2.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    D. R. Nayak, D. Das, R. Dash, B. Majhi
+  link:
+    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+
+

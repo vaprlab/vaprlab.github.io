@@ -1,8 +1,6 @@
 - title: "Optimization Algorithms and Machine Learning Techniques in Medical Image Analysis"
   image: imageaward_edited.png
-  description: It contains 15 refereed research papers on recent developments in 
-optimization algorithms (OAs) and machine learning (ML). There is a particular focus on applications 
-of OA and ML in the medical image analysis fields.
+  description: It contains 15 refereed research papers on recent developments in optimization algorithms (OAs) and machine learning (ML). There is a particular focus on applications of OA and ML in the medical image analysis fields.
   authors: Yudong Zhang, Juan Manuel Gorriz, Deepak Ranjan Nayak
   link:
     url: http://www.aimspress.com/article/doi/10.3934/mbe.2023255
@@ -39,43 +37,40 @@ of OA and ML in the medical image analysis fields.
 
 - title: "A Comprehensive Analysis of Dermoscopy Images for Melanoma Detection via Deep CNN Features"
   image: paper5_image.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: we present an automated framework that extracts visual features from dermoscopy images using a pre-trained deep CNN model and then employs a set of classifiers to detect melanoma
   authors: H. K. Gajera, D. R. Nayak, M. A. Zaveri
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://doi.org/10.1016/j.bspc.2022.104186
+    display:  BSPC (2023)
   highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+  
 
 - title: "MFL-Net: An Efficient Lightweight Multi-Scale Feature Learning CNN for COVID-19 Diagnosis from CT Images"
   image: paper6_image.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
+  description: we propose an extremely lightweight CNN with multi-scale feature learning blocks called as MFL-Net. The MFL-Net comprises a sequence of MFL blocks that combines multiple convolutional layers with 3×3 filters and residual connections effectively, thereby extracting multi-scale features at different levels and preserving them throughout the block.
   authors: A. Joshi, D. R. Nayak
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    url: https://ieeexplore.ieee.org/document/9861724
+    display: IEEE Journal of biomedical and health informatics(2022)
   highlight: 1
 
 - title: "LiMS-Net: A Lightweight Multi-Scale CNN for COVID-19 Detection from Chest CT Scan"
   image: paper7_image.png
-  description:
+  description: 
   authors: A. Joshi, D. R. Nayak, D. Das, Y. Zhang
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: 
+    display: 
   highlight: 0
-  news2:
-
 
 - title: "CDANet: Channel Split Dual Attention based CNN for Brain Tumor Classification in MR Images"
   image: paper8_image.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  description: 
   authors: T. K. Dutta, D. R. Nayak
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: 
+    display:  
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "GDenseMNet: Global Dense Multiscale Feature Learning Network for Efficient COVID-19 Detection in CT Images"
   image: paper9_image.png
@@ -87,104 +82,99 @@ of OA and ML in the medical image analysis fields.
   highlight: 1
   news2:
 
-- title: ""Fusion of Local and Global Feature Representation with Sparse Autoencoder for Improved Melanoma Classification"
+- title: "Fusion of Local and Global Feature Representation with Sparse Autoencoder for Improved Melanoma Classification"
   image: paper10_image.png
   authors: H. K. Gajera, D. R. Nayak, M. A. Zaveri
   description:
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: 
+    display:  
   highlight: 0
   news2:
 
 - title: "Patch based Local Deep Feature Extraction for Automated Skin Cancer Classification"
   image: paper11_image.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  description: 
   authors: H. K. Gajera, M. A. Zaveri, D. R. Nayak
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: 
+    display:  
   highlight: 0
   news2:
 
 - title: "A Cerebral Microbleed Diagnosis Method via FeatureNet and Ensembled Randomized Neural Networks"
   image: paper12_image.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+  description: 
   authors: S. Lu, D. R. Nayak, S. Wang, Y. Zhang
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: 
+    display: 
   highlight: 1
   news2:
 
 - title: "ECNet: An Evolutionary Convolutional Network for Automated Glaucoma Detection using Fundus Images"
   image: paper13_image.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  description: 
   authors: D. R. Nayak, D. Das, B. Majhi, S. V. Bhandary, U. R. Acharya
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: 
+    display: 
   highlight: 1
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "A Feature-Level Fusion based Improved Multimodal Biometric Recognition System using Ear and Profile Face"
   image: paper14_image.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
+  description: 
   authors: P. P. Sarangi, D. R. Nayak, M. Panda, B. Majhi
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
+    url: 
+    display:  
   highlight: 1
-  news2:
 
 - title: "COVID-19 Classification by CCSHNet with Deep Fusion using Transfer Learning and Discriminant Correlation Analysis"
   image: paper15_image.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
+  description: 
   authors: S. Wang, D. R. Nayak, D. S. Guttery, X. Zhang, Y. Zhang
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
+    url: 
+    display:  
   highlight: 1
-  news2:
 
 - title: "Feature Modulating Two-stream Deep Convolutional Neural Network for Glaucoma Detection in Fundus Images"
   image: paper16_image.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  description: 
   authors: S. Majhi, D. R. Nayak
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
+    url: 
+    display:  
   highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+  
 
 - title: "Improving the Performance of Melanoma Detection in Dermoscopy Images using Deep CNN Features"
   image: paper17_image.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  description: 
   authors: H. K. Gajera, M. A. Zaveri, D. R. Nayak
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: 
+    display: 
   highlight: 0
-  news2:
 
 - title: "Application of Deep Learning Techniques for Detection of COVID-19 Cases using Chest X-ray Images: A Comprehensive Study"
   image: paper18_image.png
   description: ""
   authors: S. R. Nayak, D. R. Nayak, U. Sinha, V. Arora, R. B. Pachori
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: 
+    display: 
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
 - title: "A Hybrid Feature Descriptor with Jaya Optimized Least Squares SVM for Facial Expression Recognition"
   image: paper19_image.png
-  description: ""
+  description: 
   authors: N. B. Kar, D. R. Nayak, K. Babu, Y. Zhang
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: 
+    display:  
   highlight: 0
   news2:
 
@@ -195,45 +185,41 @@ of OA and ML in the medical image analysis fields.
   authors:
     Y. Zhang, D. R. Nayak, X. Zhang, S. Wang
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
+    url: 
+    display:
   highlight: 1
 
 - title: "MJCN: Multi-Objective Jaya Convolutional Network for Handwritten Optical Character Recognition"
   image: paper21_image.png
   description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
+    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: 
+    display:
   highlight: 0
 
 - title: "Automated Diagnosis of Multi-class Brain Abnormalities using MRI Images: A Deep Convolutional Neural Network based Method"
   image: paper22_image.png
   description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
+    url: 
+    display:
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
 
 - title: Least‐square Support Vector Machine and Wavelet Selection for Hearing Loss Identification
   image: paper23_image.png
   description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
     C. Tang, D. R. Nayak, S. Wang
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
+    url: 
+    display:
   highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
 - title: "H-WordNet: A Holistic Convolutional Neural Network Approach for Handwritten Word Recognition"
   image: paper24_image.png
@@ -241,311 +227,298 @@ of OA and ML in the medical image analysis fields.
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: 
+    display:
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
 
-- title: A Deep Stacked Random Vector Functional Link Network Autoencoder for Diagnosis of Brain Abnormalities and Breast Cancer
+- title: "A Deep Stacked Random Vector Functional Link Network Autoencoder for Diagnosis of Brain Abnormalities and Breast Cancer"
   image: paper25_image.png
   description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi, R. B. Pachori, Y. Zhang
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
+    url: 
+    display:
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
-- title: Automated Diagnosis of Pathological Brain Using Fast Curvelet Entropy Features
+- title: "Automated Diagnosis of Pathological Brain Using Fast Curvelet Entropy Features"
   image: paper26_image.png
   description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+    
   authors:
     D. R. Nayak, R. Dash, X. Chang, B. Majhi, S. Bakshi
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
+    url: 
+    display:
   highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
-- title: A Hybrid Regularized Extreme Learning Machine for Automated Detection of Pathological Brain
+- title: "A Hybrid Regularized Extreme Learning Machine for Automated Detection of Pathological Brain"
   image: paper27_image.png
   description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+   
   authors:
     D. R. Nayak, R. Dash, B. Majhi, Y. Zhang
   highlight: 1
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: 
+    display:
 
-- title: Application of Fast Curvelet Tsallis Entropy and Kernel Random Vector Functional Link Network for Automated Detection of Multiclass Brain Abnormalities
+  
+- title: "Application of Fast Curvelet Tsallis Entropy and Kernel Random Vector Functional Link Network for Automated Detection of Multiclass Brain Abnormalities"
   image: paper28_image.png
   description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi, U. R. Acharya
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
+    url: 
+    display:
   highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
 - title: "MJaya-ELM: A Jaya Algorithm with Mutation and Extreme Learning Machine based Approach for Sensorineural Hearing Loss Detection"
   image: paper29_image.png
-  description: ""
+  description: 
   authors: D. R. Nayak, Y. Zhang, D. Das, S. Panda
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: 
+    display:
   highlight: 0
   news2:
 
 - title: "An Empirical Evaluation of Extreme Learning Machine: Application to Handwritten Character Recognition"
   image: paper30_image.png
   description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
+    url: 
+    display:
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
-- title: Deep extreme learning machine with leaky rectified linear unit for multiclass classification of pathological brain images
+
+- title: "Deep extreme learning machine with leaky rectified linear unit for multiclass classification of pathological brain images"
   image: paper31_image.png
   description:
-    QPI in Sr327.
+    
   authors: D. R. Nayak, D. Das, R. Dash, S. Majhi, B. Majhi
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: 
+    display:
   highlight: 0
+
 
 - title: Discrete ripplet-II transform and modified PSO based improved evolutionary extreme learning machine for pathological brain detection
   image: paper32_image.png
   description:
-    We determine the Fermi surface of Sr327.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url: 
+    display:
   highlight: 0
 
 - title: Combining extreme learning machine with modified sine cosine algorithm for pathological brain detection
   image: paper33_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
   authors:
     D. R. Nayak, R. Dash, B. Majhi, S. Wang
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: An improved pathological brain detection system based on two-dimensional PCA and evolutionary extreme learning machine
   image: paper34_image.png
-  description: ""
+  description: 
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: 
+    display:
   highlight: 0
 
 - title: Development of pathological brain detection system using Jaya optimized improved extreme learning machine and orthogonal ripplet-II transform
   image: paper35_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Pathological brain detection using curvelet features and least squares SVM
   image: paper36_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: "SCA-RELM: A New Regularized Extreme Learning Machine Based on Sine Cosine Algorithm for Automated Detection of Pathological Brain"
   image: paper37_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
   authors:
     D. R. Nayak, R. Dash, Z. Lu, S. Lu, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: "Automated pathological brain detection system: A fast discrete curvelet transform and probabilistic neural network based approach"
   image: paper38_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi, V. Prasad
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Stationary wavelet transform and AdaBoost with SVM based pathological brain detection in MRI scanning
   image: paper39_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Detection of unilateral hearing loss by stationary wavelet entropy
   image: paper40_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     Y. Zhang, D. R. Nayak, M. Yang, Y. Shao, B. Liu, S. Wang
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: "ANTIDOTE: A Wechat Public Platform Provide Urgent Treatment for Patients with Tetrodotoxin Intoxication"
   image: paper41_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     S H Wang, XX Zhou, JQ Yang, DR Nayak, C. Reyes, ZC Dong, R. Watson, C. Cattani, J. Young, W. Gray, LX Han, Y. Yao, LT Fang, P. Phillips, SD Du, YD Zhang
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1  
 
 - title: Pathological Brain Detection using Extreme Learning Machine Trained with Improved Whale Optimization Algorithm
   image: paper42_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: An Improved Extreme Learning Machine for Pathological Brain Detection
   image: paper43_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: "Hyperspectral image classification: A k-means clustering based approach"
   image: paper44_image.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  description: 
   authors:
     S. Ranjan, D. R. Nayak, K. S. Kumar, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Brain MR image classification using two-dimensional discrete wavelet transform and AdaBoost with random forests
   image: paper45_image.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  description: 
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Non-linear cellular automata based edge detector for optical character images
   image: paper46_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Salt and Pepper Noise Reduction Schemes Using Cellular Automata
   image: paper47_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Classification of Brain MR Images Using Discrete Wavelet Transform and Random Forests
   image: paper48_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: Least Squares SVM Approach for Abnormal Brain Detection in MRI Using Multiresolution Analysis
   image: paper49_image.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: A multi-stage hybrid model for Odia compound character recognition
   image: book1.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
 
 - title: "Automated Detection of Brain Abnormalities Using Multi-Directional Features and Randomized Learning: A Comparative Study"
   image: book2.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+    
   authors:
     D. R. Nayak, D. Das, R. Dash, B. Majhi
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: 
+    display:
   highlight: 1
-
-

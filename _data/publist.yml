@@ -36,7 +36,7 @@
   news2:
 
 - title: "A Comprehensive Analysis of Dermoscopy Images for Melanoma Detection via Deep CNN Features"
-  image: paper5_image.jpeg
+  image: paper5_image.jpg
   description: we present an automated framework that extracts visual features from dermoscopy images using a pre-trained deep CNN model and then employs a set of classifiers to detect melanoma
   authors: H. K. Gajera, D. R. Nayak, M. A. Zaveri
   link:

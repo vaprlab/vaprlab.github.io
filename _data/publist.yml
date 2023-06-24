@@ -23,7 +23,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-981-99-1648-1_3
     display: Neural information processing (2023)
-  highlight: 1
+  highlight: 0
   
 - title: "Towards Exploring Deep Features for Efficient Melanoma Diagnosis in Dermoscopic Images"
   image: paper4_image.png
@@ -32,7 +32,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/10053820/
     display:  OITS International conference on information technology (2022)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "A Comprehensive Analysis of Dermoscopy Images for Melanoma Detection via Deep CNN Features"
@@ -46,7 +46,7 @@
   
 
 - title: "MFL-Net: An Efficient Lightweight Multi-Scale Feature Learning CNN for COVID-19 Diagnosis from CT Images"
-  image: paper6_image.png
+  image: dummy.png
   description: we propose an extremely lightweight CNN with multi-scale feature learning blocks called as MFL-Net. The MFL-Net comprises a sequence of MFL blocks that combines multiple convolutional layers with 3×3 filters and residual connections effectively, thereby extracting multi-scale features at different levels and preserving them throughout the block.
   authors: A. Joshi, D. R. Nayak
   link:
@@ -59,466 +59,442 @@
   description: 
   authors: A. Joshi, D. R. Nayak, D. Das, Y. Zhang
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/abs/10.1145/3551647
+    display: ACM Journals (2022)
   highlight: 0
 
 - title: "CDANet: Channel Split Dual Attention based CNN for Brain Tumor Classification in MR Images"
-  image: paper8_image.png
+  image: dummy.png
   description: 
   authors: T. K. Dutta, D. R. Nayak
   link:
-    url: 
-    display:  
-  highlight: 1
+    url: https://ieeexplore.ieee.org/document/9897799
+    display:  ICIP (2022)
+  highlight: 0
 
 - title: "GDenseMNet: Global Dense Multiscale Feature Learning Network for Efficient COVID-19 Detection in CT Images"
-  image: paper9_image.png
+  image: dummy.png
   authors: A. Joshi, D. R. Nayak
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  description: 
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
+    url: https://ieeexplore.ieee.org/document/9891950
+    display:  International Joint Conference on Neural Networks (2022)
+  highlight: 0
 
 - title: "Fusion of Local and Global Feature Representation with Sparse Autoencoder for Improved Melanoma Classification"
-  image: paper10_image.png
+  image: dummy.png
   authors: H. K. Gajera, D. R. Nayak, M. A. Zaveri
   description:
   link:
-    url: 
-    display:  
+    url: https://doi.org/10.1109/embc48229.2022.9871370
+    display: Annu Int Conf IEEE Eng Med Biol Soc (2022)
   highlight: 0
-  news2:
 
 - title: "Patch based Local Deep Feature Extraction for Automated Skin Cancer Classification"
-  image: paper11_image.png
-  description: 
+  image: dummy.png
+  description:  In the proposed method, the features are extracted from different patches of a dermoscopy image using a pre-trained CNN model and are fused to preserve fine details. The kernel principal component analysis is then employed to select the prominent features, and a feed-forward neural network is finally used to detect skin cancer.
   authors: H. K. Gajera, M. A. Zaveri, D. R. Nayak
   link:
-    url: 
-    display:  
-  highlight: 0
-  news2:
+    url: https://doi.org/10.1002/ima.22729
+    display:  IJIST 2022
+  highlight: 1
 
 - title: "A Cerebral Microbleed Diagnosis Method via FeatureNet and Ensembled Randomized Neural Networks"
-  image: paper12_image.png
+  image: dummy.png
   description: 
   authors: S. Lu, D. R. Nayak, S. Wang, Y. Zhang
   link:
-    url: 
-    display: 
-  highlight: 1
-  news2:
+    url: https://doi.org/10.1016/j.asoc.2021.107567
+    display: Applied Soft Computing (2021)
+  highlight: 0
 
 - title: "ECNet: An Evolutionary Convolutional Network for Automated Glaucoma Detection using Fundus Images"
-  image: paper13_image.png
+  image: dummy.png
   description: 
   authors: D. R. Nayak, D. Das, B. Majhi, S. V. Bhandary, U. R. Acharya
   link:
-    url: 
-    display: 
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+    url: https://doi.org/10.1016/j.bspc.2021.102559
+    display: Biomedical Signal Processing and Control (2021)
+  highlight: 0
 
 - title: "A Feature-Level Fusion based Improved Multimodal Biometric Recognition System using Ear and Profile Face"
-  image: paper14_image.png
+  image: dummy.png
   description: 
   authors: P. P. Sarangi, D. R. Nayak, M. Panda, B. Majhi
   link:
-    url: 
-    display:  
-  highlight: 1
+    url: https://link.springer.com/article/10.1007/s12652-021-02952-0
+    display: Journal of Ambient Intelligence and Humanized Computing (2021)
+  highlight: 0
 
 - title: "COVID-19 Classification by CCSHNet with Deep Fusion using Transfer Learning and Discriminant Correlation Analysis"
   image: paper15_image.png
-  description: 
+  description: We proposed a novel (L, 2) transfer feature learning (L2TFL) approach to elucidate the optimal layers to be removed prior to selection by testing various pretrained networks with various settings
   authors: S. Wang, D. R. Nayak, D. S. Guttery, X. Zhang, Y. Zhang
   link:
-    url: 
-    display:  
+    url: https://doi.org/10.1016/j.inffus.2020.11.005
+    display: Information Fusion (2021)
   highlight: 1
 
 - title: "Feature Modulating Two-stream Deep Convolutional Neural Network for Glaucoma Detection in Fundus Images"
-  image: paper16_image.png
+  image: dummy.png
   description: 
   authors: S. Majhi, D. R. Nayak
   link:
-    url: 
-    display:  
-  highlight: 1
+    url: https://link.springer.com/chapter/10.1007/978-3-031-11349-9_15
+    display:  International Conference on Computer Vision and Image Processing (2021)
+  highlight: 0
   
 
 - title: "Improving the Performance of Melanoma Detection in Dermoscopy Images using Deep CNN Features"
-  image: paper17_image.png
+  image: dummy.png
   description: 
   authors: H. K. Gajera, M. A. Zaveri, D. R. Nayak
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/doi/10.1007/978-3-030-77211-6_39#:~:text=To%20address%20this%20problem%2C%20in%20this%20paper%2C%20we,classification%20is%20performed%20using%20a%20set%20of%20classifiers.
+    display: AIME 2021
   highlight: 0
 
 - title: "Application of Deep Learning Techniques for Detection of COVID-19 Cases using Chest X-ray Images: A Comprehensive Study"
-  image: paper18_image.png
+  image: dummy.png
   description: ""
   authors: S. R. Nayak, D. R. Nayak, U. Sinha, V. Arora, R. B. Pachori
   link:
-    url: 
-    display: 
+    url: https://doi.org/10.1016/j.bspc.2020.102365
+    display: Biomed Signal Process Control (2021)
   highlight: 0
 
 - title: "A Hybrid Feature Descriptor with Jaya Optimized Least Squares SVM for Facial Expression Recognition"
-  image: paper19_image.png
+  image: dummy.png
   description: 
   authors: N. B. Kar, D. R. Nayak, K. Babu, Y. Zhang
   link:
-    url: 
-    display:  
+    url: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12118
+    display: IET Image Processing (2020)
   highlight: 0
   news2:
 
 - title: "Diagnosis of Secondary Pulmonary Tuberculosis by an Eight-layer Improved Convolutional Neural Network with Data Augmentation and Stochastic Pooling"
-  image: paper20_image.png
+  image: dummy.png
   description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
   authors:
     Y. Zhang, D. R. Nayak, X. Zhang, S. Wang
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://link.springer.com/article/10.1007/s12652-020-02612-9
+    display: Journal of Ambient Intelligence and Humanized Computing
+  highlight: 0
 
 - title: "MJCN: Multi-Objective Jaya Convolutional Network for Handwritten Optical Character Recognition"
-  image: paper21_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://link.springer.com/article/10.1007/s11042-020-09457-6
+    display: Multimedia Tools and Applications (2020)
   highlight: 0
 
 - title: "Automated Diagnosis of Multi-class Brain Abnormalities using MRI Images: A Deep Convolutional Neural Network based Method"
-  image: paper22_image.png
+  image: dummy.png
   description:
-    
+    In this paper, a deep convolutional neural network (CNN) based automated approach is designed for the diagnosis of multi-class brain abnormalities. The proposed CNN model comprises five layers with learnable parameters four convolutional layers and one fully-connected layer. The objective of designing such a custom deep network is to achieve greater classification performance with reduced number of parameters
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://doi.org/10.1016/j.patrec.2020.04.018
+    display: Pattern Recognition Letters(2020)
   highlight: 1
 
 - title: Least‐square Support Vector Machine and Wavelet Selection for Hearing Loss Identification
-  image: paper23_image.png
-  description:
+  image: paper21_image.png
+  description: This study investigated the advantages and disadvantages of three classical machine learning methods multilayer perceptron (MLP), support vector machine (SVM), and least-square support vector machine (LS-SVM) approach and made a further optimization of the LS-SVM model via wavelet entropy.
   authors:
     C. Tang, D. R. Nayak, S. Wang
   link:
-    url: 
-    display:
+    url: https://www.techscience.com/CMES/v125n1/40217
+    display: Computer modelling in engineering and sciences (2020)
   highlight: 1
 
 - title: "H-WordNet: A Holistic Convolutional Neural Network Approach for Handwritten Word Recognition"
   image: paper24_image.png
-  description: ""
+  description: In this study, a deep convolutional neural network-based holistic method termed ‘H-WordNet’ is proposed for handwritten word recognition. The H-WordNet model includes merely four convolutional layers and one fully connected layer to effectively classify the word images', which lead to a significant reduction in parameters
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 0
+    url: https://doi.org/10.1049/iet-ipr.2019.1398
+    display: IET Image Processing (2020)
+  highlight: 1
 
 - title: "A Deep Stacked Random Vector Functional Link Network Autoencoder for Diagnosis of Brain Abnormalities and Breast Cancer"
-  image: paper25_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi, R. B. Pachori, Y. Zhang
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://doi.org/10.1016/j.bspc.2020.101860
+    display: Biomedical Signal Processing and Control (2020)
+  highlight: 0
 
 - title: "Automated Diagnosis of Pathological Brain Using Fast Curvelet Entropy Features"
-  image: paper26_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, X. Chang, B. Majhi, S. Bakshi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://ieeexplore.ieee.org/abstract/document/8550803
+    display: IEEE Transactions on Sustainable Computing(2020)
+  highlight: 0
 
 - title: "A Hybrid Regularized Extreme Learning Machine for Automated Detection of Pathological Brain"
-  image: paper27_image.png
+  image: dummy.png
   description:
-   
   authors:
     D. R. Nayak, R. Dash, B. Majhi, Y. Zhang
-  highlight: 1
+  highlight: 0
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: https://doi.org/10.1016/j.bbe.2019.08.005
+    display: Biocybernetics and Biomedical Engineering (2019)
 
 - title: Application of Fast Curvelet Tsallis Entropy and Kernel Random Vector Functional Link Network for Automated Detection of Multiclass Brain Abnormalities
-  image: paper28_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi, U. R. Acharya
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://doi.org/10.1016/j.compmedimag.2019.101656
+    display: Computerized Medical Imaging and Graphics (2019)
+  highlight: 0
 
 - title: "MJaya-ELM: A Jaya Algorithm with Mutation and Extreme Learning Machine based Approach for Sensorineural Hearing Loss Detection"
-  image: paper29_image.png
+  image: dummy.png
   description: 
   authors: D. R. Nayak, Y. Zhang, D. Das, S. Panda
   link:
-    url: 
-    display:
+    url: https://doi.org/10.1016/j.asoc.2019.105626
+    display: Applied Soft Computing (2019)
   highlight: 0
   news2:
 
 - title: "An Empirical Evaluation of Extreme Learning Machine: Application to Handwritten Character Recognition"
-  image: paper30_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://link.springer.com/article/10.1007/s11042-019-7330-0
+    display: Multimedia Tools and Applications (2019)
   highlight: 1
 
 
 - title: "Deep extreme learning machine with leaky rectified linear unit for multiclass classification of pathological brain images"
-  image: paper31_image.png
+  image: dummy.png
   description:
-    
   authors: D. R. Nayak, D. Das, R. Dash, S. Majhi, B. Majhi
   link:
-    url: 
-    display:
+    url: https://doi.org/10.1007/s11042-019-7233-0
+    display: Multimedia Tools and Applications (2020)
   highlight: 0
 
 
 - title: Discrete ripplet-II transform and modified PSO based improved evolutionary extreme learning machine for pathological brain detection
-  image: paper32_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231217318659
+    display: Neurocomputing (2018)
   highlight: 0
 
 - title: Combining extreme learning machine with modified sine cosine algorithm for pathological brain detection
   image: paper33_image.png
-  description:
+  description: The proposed system involves contrast enhancement of input MR images using contrast limited adaptive histogram equalization (CLAHE). Then, the curve like features are computed from the preprocessed MR brain images using fast discrete curvelet transform via unequally-spaced FFT (FDCT-USFFT).
   authors:
     D. R. Nayak, R. Dash, B. Majhi, S. Wang
   link:
-    url: 
-    display:
+    url: https://doi.org/10.1016/j.compeleceng.2018.04.009
+    display: Computers & Electrical Engineering (2018)
   highlight: 1
 
 - title: An improved pathological brain detection system based on two-dimensional PCA and evolutionary extreme learning machine
-  image: paper34_image.png
+  image: dummy.png
   description: 
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://pubmed.ncbi.nlm.nih.gov/29218420
+    display: Journal of medical systems (2017)
   highlight: 0
 
 - title: Development of pathological brain detection system using Jaya optimized improved extreme learning machine and orthogonal ripplet-II transform
-  image: paper35_image.png
+  image: dummy.png
   description:
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://link.springer.com/article/10.1007/s11042-017-5281-x
+    display: Multimedia Tools and Applications
+  highlight: 0
 
 - title: Pathological brain detection using curvelet features and least squares SVM
-  image: paper36_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://link.springer.com/article/10.1007/s11042-016-4171-y
+    display: Multimedia Tools and Applications
+  highlight: 0
 
 - title: "SCA-RELM: A New Regularized Extreme Learning Machine Based on Sine Cosine Algorithm for Automated Detection of Pathological Brain"
   image: paper37_image.png
-  description:
+  description: This paper aims at developing a new method for automated diagnosis of pathological brain using magnetic resonance imaging (MRI). The method derives features using unequally-spaced FFT based fast discrete curvelet transform (FDCT- USFFT). Thereafter, a reduced feature set is obtained using PCA+LDA algorithm.
   authors:
     D. R. Nayak, R. Dash, Z. Lu, S. Lu, B. Majhi
   link:
-    url: 
-    display:
+    url: https://ieeexplore.ieee.org/abstract/document/8525509
+    display: 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN) (2018)
   highlight: 1
 
 - title: "Automated pathological brain detection system: A fast discrete curvelet transform and probabilistic neural network based approach"
-  image: paper38_image.png
+  image: dummy.png
   description:
-    
+    The proposed scheme uses a simplified pulse-coupled neural network (SPCNN) for the region of interest (ROI) segmentation and fast discrete curvelet transform (FDCT) for feature extraction. Subsequently, PCA+LDA approach is harnessed for feature dimensionality reduction and finally probabilistic neural network (PNN) is applied for classification
   authors:
     D. R. Nayak, R. Dash, B. Majhi, V. Prasad
   link:
-    url: 
-    display:
+    url: https://doi.org/10.1016/j.eswa.2017.06.038
+    display: Expert Systems with Applications (2017)
   highlight: 1
 
 - title: Stationary wavelet transform and AdaBoost with SVM based pathological brain detection in MRI scanning
-  image: paper39_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://pubmed.ncbi.nlm.nih.gov/27781951/
+    display: CNS Neurol Disord Drug Targets
+  highlight: 0
 
 - title: Detection of unilateral hearing loss by stationary wavelet entropy
-  image: paper40_image.png
+  image: dummy.png
   description:
-    
   authors:
     Y. Zhang, D. R. Nayak, M. Yang, Y. Shao, B. Liu, S. Wang
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://pubmed.ncbi.nlm.nih.gov/27784224/
+    display: CNS Neurol Disord Drug Targets
+  highlight: 0
 
 - title: "ANTIDOTE: A Wechat Public Platform Provide Urgent Treatment for Patients with Tetrodotoxin Intoxication"
-  image: paper41_image.png
+  image: dummy.png
   description:
-    
   authors:
     S H Wang, XX Zhou, JQ Yang, DR Nayak, C. Reyes, ZC Dong, R. Watson, C. Cattani, J. Young, W. Gray, LX Han, Y. Yao, LT Fang, P. Phillips, SD Du, YD Zhang
   link:
-    url: 
-    display:
-  highlight: 1  
+    url: https://www.researchgate.net/publication/323734487_ANTIDOTE_A_Wechat_Public_Platform_Provide_Urgent_Treatment_for_Patients_with_Tetrodotoxin_Intoxication
+    display: Basic & Clinical Pharmacology & Toxicology (2017)
+  highlight: 0  
 
 - title: Pathological Brain Detection using Extreme Learning Machine Trained with Improved Whale Optimization Algorithm
-  image: paper42_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://ieeexplore.ieee.org/document/8593068
+    display: Ninth International Conference on Advances in Pattern Recognition (ICAPR) (2017)
+  highlight: 0
 
 - title: An Improved Extreme Learning Machine for Pathological Brain Detection
-  image: paper43_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://ieeexplore.ieee.org/document/8227828
+    display: TENCON 2017
+  highlight: 0
 
 - title: "Hyperspectral image classification: A k-means clustering based approach"
   image: paper44_image.png
-  description: 
+  description: This paper proposes a new scheme for hyperspectral image classification through k-means clustering. The scheme includes three steps. The suggested method is compared with a standard technique, called PCA + M-SVM and it is observed that the proposed scheme gives better results in terms of classification accuracy and execution time.
   authors:
     S. Ranjan, D. R. Nayak, K. S. Kumar, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://ieeexplore.ieee.org/document/8014707/
+    display: 4th International Conference on Advanced Computing and Communication Systems (ICACCS)(2017)
   highlight: 1
 
 - title: Brain MR image classification using two-dimensional discrete wavelet transform and AdaBoost with random forests
-  image: paper45_image.png
+  image: dummy.png
   description: 
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://doi.org/10.1016/j.neucom.2015.11.034
+    display: Neurocomputing (2016)
+  highlight: 0
 
 - title: Non-linear cellular automata based edge detector for optical character images
-  image: paper46_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://journals.sagepub.com/doi/10.1177/0037549716665156
+    display: https://doi.org/10.1177/0037549716665156
+  highlight: 0
 
 - title: Salt and Pepper Noise Reduction Schemes Using Cellular Automata
-  image: paper47_image.png
+  image: dummy.png
   description:
-    
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://link.springer.com/chapter/10.1007/978-81-322-2529-4_45
+    display: Proceedings of 3rd International Conference on Advanced Computing, Networking and Informatics (2015)
+  highlight: 0
 
 - title: Classification of Brain MR Images Using Discrete Wavelet Transform and Random Forests
-  image: paper48_image.png
+  image: paper48_image.jpeg
   description:
-    
+    In this paper, a new automatic CAD system for brain magnetic resonance (MR) image classification is proposed. The method utilizes two-dimensional discrete wavelet transform to extract features from the MR images. The dimension of the features have been reduced using principal component analysis (PCA) and linear discriminant analysis (LDA), to obtain the more significant features
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://ieeexplore.ieee.org/document/7490068
+    display: 2015 Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)
   highlight: 1
 
 - title: Least Squares SVM Approach for Abnormal Brain Detection in MRI Using Multiresolution Analysis
-  image: paper49_image.png
+  image: dummy.png
   description:
     
   authors:
     D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://ieeexplore.ieee.org/document/7374140
+    display: IEEE ICCCS (2015) 
+  highlight: 0
 
 - title: A multi-stage hybrid model for Odia compound character recognition
   image: book1.png
   description:
-    
   authors:
     D. Das, D. R. Nayak, R. Dash, B. Majhi
   link:
-    url: 
-    display:
-  highlight: 1
+    url: https://ebrary.net/199300/engineering/multi_stage_hybrid_model_odia_compound_character_recognition#:~:text=Hence%2C%20aiming%20at%20improving%20recognition%20performance%2C%20we%20proposed,final%20stage%20to%20predict%20the%20final%20class%20label.
+    display: OCR Odia (2020)
+  highlight: 0
 
 - title: "Automated Detection of Brain Abnormalities Using Multi-Directional Features and Randomized Learning: A Comparative Study"
-  image: book2.png
+  image: book2.jpeg
   description:
-    
+    In this chapter, the authors compare the effectiveness of two feature extractors based on FCT and R2T along with different ELM algorithms. These schemes have been evaluated on three brain MR datasets and comparative analyses have been made on several combinations of methods.
   authors:
     D. R. Nayak, D. Das, R. Dash, B. Majhi
   link:
-    url: 
-    display:
+    url: https://www.igi-global.com/chapter/automated-detection-of-brain-abnormalities-using-multi-directional-features-and-randomized-learning/251137
+    display: Handbook of research on advancements of AI in Healthcare Engineering (2020)
   highlight: 1

@@ -261,11 +261,11 @@
     D. R. Nayak, R. Dash, B. Majhi, Y. Zhang
   highlight: 1
   link:
-    url: 
-    display:
+    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
+    display: Nature Physics 9, 220 (2013)
+  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
-  
-- title: "Application of Fast Curvelet Tsallis Entropy and Kernel Random Vector Functional Link Network for Automated Detection of Multiclass Brain Abnormalities"
+- title: Application of Fast Curvelet Tsallis Entropy and Kernel Random Vector Functional Link Network for Automated Detection of Multiclass Brain Abnormalities
   image: paper28_image.png
   description:
     

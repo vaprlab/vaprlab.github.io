@@ -32,16 +32,16 @@
   link:
     url: https://ieeexplore.ieee.org/document/10053820/
     display:  OITS International conference on information technology (2022)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "A Comprehensive Analysis of Dermoscopy Images for Melanoma Detection via Deep CNN Features"
-  image: paper5_image.png
+  image: paper5_image.jpeg
   description: we present an automated framework that extracts visual features from dermoscopy images using a pre-trained deep CNN model and then employs a set of classifiers to detect melanoma
   authors: H. K. Gajera, D. R. Nayak, M. A. Zaveri
   link:
     url: https://doi.org/10.1016/j.bspc.2022.104186
-    display:  BSPC (2023)
+    display:  Biomedical Signal Processing and Control (2023)
   highlight: 1
   
 

@@ -33,13 +33,13 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/department.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/prabhabhawan.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

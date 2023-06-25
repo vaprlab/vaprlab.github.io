@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "VAPR Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "VAPR Lab -- Pictures"
 permalink: /pictures/
 ---
 
@@ -9,10 +9,10 @@ permalink: /pictures/
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
-## Leiden
+## MNIT Jaipur
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+#### Department of CSE [(see for more info)](https://mnit.ac.in/dept_cse/index)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzDPpNbEuJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)

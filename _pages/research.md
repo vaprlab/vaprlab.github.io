@@ -27,11 +27,11 @@ permalink: /research/
 ## Computer Vision
 
 **Large-scale Image and Video Classification.**
-<p style= 'text-align: justify;'><b>Large-scale Image and Video Classification.</b> Our research focuses on developing scalable algorithms for efficiently classifying large collections of images and videos. We aim to improve the accuracy and efficiency of classification tasks across diverse datasets.</p>
+<p style= 'text-align: justify;'> Our research focuses on developing scalable algorithms for efficiently classifying large collections of images and videos. We aim to improve the accuracy and efficiency of classification tasks across diverse datasets.</p>
 
 
 **Hyper-spectral Image Analysis.**  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/IP_GroundTruth.png){: style="width: 250px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/IP_GroundTruth.png){: style="width: 200px; float: right; margin: 0px 10px"}
 <p style= 'text-align: justify;'>Our research focuses on analyzing hyper-spectral images, which contain rich spectral information, for applications such as environmental monitoring, agriculture, and remote sensing. we develop deep learning algorithm which resolves some of the issues in HSI classification such as higher accuracy with lesser training data.</p>
 
 **Action and Activity Recognition.**

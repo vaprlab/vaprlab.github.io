@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<p text-align: justify> We are a dynamic research group at the [Malviya National Institute of Technology, Jaipur](http://www.mnit.ac.in/). This lab function under the guidance of [Dr. Deepak Ranjan Nayak](https://mnit.ac.in/dept_cse/profile?fid=RqmJ) of Department of Computer Science and Egineering at MNIT Jaipur, India. Our aim is to explore and understand computer vision and medical image analysis related problems. We are also working on several machine learning techniques and deep learning and randomized learning algorithms. </p>
+<p style='text-align: justify;'> We are a dynamic research group at the [Malviya National Institute of Technology, Jaipur](http://www.mnit.ac.in/). This lab function under the guidance of [Dr. Deepak Ranjan Nayak](https://mnit.ac.in/dept_cse/profile?fid=RqmJ) of Department of Computer Science and Egineering at MNIT Jaipur, India. Our aim is to explore and understand computer vision and medical image analysis related problems. We are also working on several machine learning techniques and deep learning and randomized learning algorithms. </p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,11 +53,11 @@ permalink: /
 </div>
 
 
-To this end, we strive to develop innovative techniques that go beyond traditional visual perception. Our vision is to construct advanced imaging systems that can perceive and interpret medical images with remarkable accuracy, empowering medical professionals to make more precise diagnoses and facilitate personalized treatments. we also aim to uncover hidden patterns and uncover valuable insights that can revolutionize fields such as remote sensing, environmental monitoring, and material characterization.(see [Research](research)).
+<p style='text-align: justify;'> To this end, we strive to develop innovative techniques that go beyond traditional visual perception. Our vision is to construct advanced imaging systems that can perceive and interpret medical images with remarkable accuracy, empowering medical professionals to make more precise diagnoses and facilitate personalized treatments. we also aim to uncover hidden patterns and uncover valuable insights that can revolutionize fields such as remote sensing, environmental monitoring, and material characterization.(see [Research](research)). </p>
 
-We are located at Malviya national institute of technology, Jaipur, a vibrant city known for it's cultural heritage, has a rich 50 years of history of  excellence in education and research and we continue to build upon that foundation. We are currently ranked [37th](https://www.nirfindia.org/2023/EngineeringRanking.html) among all engineering colleges in india and are driven by a spirit of curiosity and a desire to address the challanges thrown at us.
+<p style='text-align: justify;'>We are located at Malviya national institute of technology, Jaipur, a vibrant city known for it's cultural heritage, has a rich 50 years of history of  excellence in education and research and we continue to build upon that foundation. We are currently ranked [37th](https://www.nirfindia.org/2023/EngineeringRanking.html) among all engineering colleges in india and are driven by a spirit of curiosity and a desire to address the challanges thrown at us.</p>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <p style='text-align: justify;'>**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</p>
 
 
 <figure class="fourth">

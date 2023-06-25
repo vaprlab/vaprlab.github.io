@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "VAPR Lab at MNIT Jaipur."
 sitemap: false
 permalink: /allnews.html
 ---

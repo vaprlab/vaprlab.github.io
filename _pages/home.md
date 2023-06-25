@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Malviya National Institute of Technology, Jaipur](http://www.mnit.ac.in/). This lab function under the guidance of [Dr. Deepak Ranjan Nayak](https://mnit.ac.in/dept_cse/profile?fid=RqmJ) of Department of Computer Science and Egineering at MNIT Jaipur, India. Our aim is to explore and understand computer vision and medical image analysis related problems. We are also working on several machine learning techniques and deep learning and randomized learning algorithms.
+<p text-align: justify> We are a dynamic research group at the [Malviya National Institute of Technology, Jaipur](http://www.mnit.ac.in/). This lab function under the guidance of [Dr. Deepak Ranjan Nayak](https://mnit.ac.in/dept_cse/profile?fid=RqmJ) of Department of Computer Science and Egineering at MNIT Jaipur, India. Our aim is to explore and understand computer vision and medical image analysis related problems. We are also working on several machine learning techniques and deep learning and randomized learning algorithms. </p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

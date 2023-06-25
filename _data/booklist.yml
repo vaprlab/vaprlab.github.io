@@ -1,0 +1,20 @@
+- title: A multi-stage hybrid model for Odia compound character recognition
+  image: book1.png
+  description:
+  authors:
+    D. Das, D. R. Nayak, R. Dash, B. Majhi
+  link:
+    url: https://ebrary.net/199300/engineering/multi_stage_hybrid_model_odia_compound_character_recognition#:~:text=Hence%2C%20aiming%20at%20improving%20recognition%20performance%2C%20we%20proposed,final%20stage%20to%20predict%20the%20final%20class%20label.
+    display: OCR Odia (2020)
+  highlight: 0
+
+- title: "Automated Detection of Brain Abnormalities Using Multi-Directional Features and Randomized Learning: A Comparative Study"
+  image: book2.jpeg
+  description:
+    In this chapter, the authors compare the effectiveness of two feature extractors based on FCT and R2T along with different ELM algorithms. These schemes have been evaluated on three brain MR datasets and comparative analyses have been made on several combinations of methods.
+  authors:
+    D. R. Nayak, D. Das, R. Dash, B. Majhi
+  link:
+    url: https://www.igi-global.com/chapter/automated-detection-of-brain-abnormalities-using-multi-directional-features-and-randomized-learning/251137
+    display: Handbook of research on advancements of AI in Healthcare Engineering (2020)
+  highlight: 1

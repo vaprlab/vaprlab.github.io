@@ -21,7 +21,7 @@ permalink: /research/
 <p style= 'text-align: justify;'> By leveraging medical image analysis techniques, we aim to detect and analyze patterns related to sensorineural hearing loss, contributing to early diagnosis and intervention. </p>
 
 **Fundus Image Analysis**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/fundus.jpeg){: style="width: 110px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/fundus.jpeg){: style="width: 110px; float: right; margin: 0px  10px"}
 <p style= 'text-align: justify;'> We utilize image analysis methods to analyze fundus images, enabling the detection and characterization of various retinal diseases such as diabetic retinopathy and age-related macular degeneration.</p>
 
 ## Computer Vision

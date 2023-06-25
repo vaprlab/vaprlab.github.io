@@ -39,8 +39,9 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLTC2.jpeg" alt="Slide 6" />
         </div>
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

@@ -62,7 +62,7 @@ permalink: /
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mnit.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mnit.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_vapr.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.jpeg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.jpeg" style="width: 150px">

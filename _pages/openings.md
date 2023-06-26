@@ -35,5 +35,5 @@ You can find the past job openings here:
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/opening.jpg" width="95%">
 </figure>

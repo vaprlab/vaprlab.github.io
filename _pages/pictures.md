@@ -14,8 +14,12 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 #### Department of CSE [(see for more info)](https://mnit.ac.in/dept_cse/index)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kzDPpNbEuJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Gallery
+### Gallery
+
+#### Stay tuned for more.....
+<!--
 (Right-click *'view image'* to see a larger image.)
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -76,3 +80,4 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
+-->

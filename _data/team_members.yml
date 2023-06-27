@@ -38,8 +38,8 @@
   education3: B.Tech 
   
 
-- name: "This could be you !"
-  photo: rock.jpg
+- name: "Is this you ?"
+  photo: panda.jpg
   info: See <a href="">openings</a> for more info
   email: drnayak.cse@mnit.ac.in
   number_educ: 0

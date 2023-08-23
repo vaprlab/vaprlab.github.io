@@ -21,6 +21,24 @@ permalink: /
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
+    <style>
+    .image-container {
+        width: 700px; /* Adjust the width as needed */
+        height: 400px; /* Adjust the height as needed */
+        background-color: #f0f0f0; /* Set the desired background color */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+    
+    .image-container img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    </style>
+
+
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">

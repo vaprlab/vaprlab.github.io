@@ -19,28 +19,28 @@ permalink: /
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" width="700" height="400" alt="Slide 1" />
+        <div class="carousel-item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" class="carousel-image" alt="Slide 1" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg" width="700" height="400" alt="Slide 2" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg" class="carousel-image" alt="Slide 2" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_133348.jpg" width="700" height="400" alt="Slide 3" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_133348.jpg" class="carousel-image" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_200403_edited.jpg" width="700" height="400" alt="Slide 4" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_200403_edited.jpg" class="carousel-image" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" width="700" height="400" alt="Slide 5" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" class="carousel-image" alt="Slide 5" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018-01-03-10-30-42-254.jpg" width="700" height="400" alt="Slide 6" />
+         <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018-01-03-10-30-42-254.jpg" class="carousel-image" alt="Slide 6" />
         </div>
-
     </div>
+
+   
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -64,3 +64,15 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.jpeg" style="width: 150px">
   
 </figure>
+
+
+<style>
+    .carousel-image {
+        max-width: 700px; /* Set the desired width */
+        max-height: 400px; /* Set the desired height */
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+</style>
+

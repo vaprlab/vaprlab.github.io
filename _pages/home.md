@@ -46,21 +46,30 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" alt="Slide 1" />
             </div>
         </div>
-    </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg" width="700" height="400" alt="Slide 2" />
+        <div class="item active">
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg"  alt="Slide 2" />
+            </div>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_133348.jpg" width="700" height="400" alt="Slide 3" />
+        <div class="item active">
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_133348.jpg"  alt="Slide 3" />
+            </div>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_200403_edited.jpg" width="700" height="400" alt="Slide 4" />
+        <div class="item active">
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_200403_edited.jpg"  alt="Slide 4" />
+            </div>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" width="700" height="400" alt="Slide 5" />
+        <div class="item active">
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png"  alt="Slide 5" />
+            </div>
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018-01-03-10-30-42-254.jpg" width="700" height="400" alt="Slide 6" />
+         <div class="item active">
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018-01-03-10-30-42-254.jpg" alt="Slide 6" />
+            </div>
         </div>
 
     </div>

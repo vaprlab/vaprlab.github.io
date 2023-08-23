@@ -24,8 +24,11 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" width="700" height="400" alt="Slide 1" />
+            <div class="image-container">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" alt="Slide 1" />
+            </div>
         </div>
+    </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg" width="700" height="400" alt="Slide 2" />
         </div>

@@ -20,22 +20,22 @@ permalink: /
     </ol>
 
     <div class="carousel-inner" markdown="0">
-        <div class="carousel-item active">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_121850.jpg" class="carousel-image" alt="Slide 1" />
         </div>
-        <div class="carousel-item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_210910.jpg" class="carousel-image" alt="Slide 2" />
         </div>
-        <div class="carousel-item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220719_133348.jpg" class="carousel-image" alt="Slide 3" />
         </div>
-        <div class="carousel-item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20220718_200403_edited.jpg" class="carousel-image" alt="Slide 4" />
         </div>
-        <div class="carousel-item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oldteam.png" class="carousel-image" alt="Slide 5" />
         </div>       
-         <div class="carousel-item">
+         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018-01-03-10-30-42-254.jpg" class="carousel-image" alt="Slide 6" />
         </div>
     </div>
